@@ -3,4 +3,7 @@ def first_challenge
      montague: {},
      capulet: {}
    }
+   put epic_tragedy
 end
+
+first_challenge
