@@ -15,9 +15,9 @@ def second_challenge
       heroine_friends: {}
       }}
 
-  
+  puts epic_tragedy
 end
 
 second_challenge
-puts epic_tragedy
+
 
